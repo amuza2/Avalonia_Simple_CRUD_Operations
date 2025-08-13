@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="CRUDApp/App.axaml" value="CRUDApp/CRUDApp.csproj" />
+        <entry key="CRUDApp/Views/MainWindow.axaml" value="CRUDApp/CRUDApp.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
